@@ -1,4 +1,4 @@
-#demo4
+# demo4
 
 ## 混合强调样式
 
@@ -45,18 +45,33 @@ not good（自引用）：
 [百度]  
 [百度网站]
 
+## 多级列表
+
+- 问题1：如何打断：空行不行，需要文字段落才能打断
+
+1. item1  
+  1. item 1.1  
+  2. item 1.2  
+2. item2  
+
+打断列表，下面从1开始进行编号：
+
+3. item3  
+
+- 问题2：打断的列表如何继续编号（利用4个空格的缩进，让文本段落变成缩进段落）
+
+1. item1  
+  1. item 1.1  
+  2. item 1.2  
+2. item2  
+
+    不打断列表，继续编号：
+
+3. item3  
+
+
 <! -- 以下是本文中的链接 -->
 [baidu]: http://www.baidu.com
 [baidu_logo]: https://www.baidu.com/img/bd_logo1.png?where=super)
 [百度]: http://www.baidu.com
 [百度网站]: http://www.baidu.com
-
-## 多级列表
-
-1. item1
-  1. item 1.1
-  2. item 1.2
-2. item2
-
-
-3. item3
