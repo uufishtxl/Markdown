@@ -37,10 +37,11 @@ ___
 | **row 2** | *row 2* | [百度](http://www.baidu.com) |
 | image | demo | ![baidu](https://www.baidu.com/img/bd_logo1.png?where=super "百度网站") |
 
-精简表格（HBuilder上看不出效果）
- 这 | 是 | 表头 |
- --- | :---: | ---: 
- cell1 | cell2cell2cell2cell2 | cell3cell3cell3 
+精简表格（HBuilder上看不出效果）  
+
+ 这 | 是 | 表头 
+ --- | :----: | ------: 
+ cell1 | cell2cell2cel | cell3cell3 
  row 2 | row 2 | row 2 
 
 ## GFM
